@@ -1,0 +1,1 @@
+Create an easy to reference group of automated trading strategies written in C#. With the main focus being how to invoke "ATM" order entries on the NinjaTrader platform.
